@@ -1,6 +1,6 @@
 {
-  "name": "Plunk Color",
-  "description": "A color picker extension that can pick color from website and computer programs.",
+  "name": "Links in Pocket",
+  "description": "A extension that contains daily used all links one place. .",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
@@ -12,8 +12,8 @@
     "default_popup": "popup.html"
   },
   "icons": {
-    "16": "/images/picker_16.png",
-    "32": "/images/picker_32.png",
-    "48": "/images/picker_48.png"
+    "16": "/images/icon_16.png",
+    "32": "/images/icon_48.png",
+    "48": "/images/icon_96.png"
   }
 }
